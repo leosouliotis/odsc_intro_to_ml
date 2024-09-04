@@ -1,0 +1,5 @@
+In this Introduction to Machine Learning with Python session, we will explore key concepts of supervised and unsupervised learning and their applications. We will 
+focus on essential data preparation techniques, such as handling missing values, data cleaning, feature engineering, and preprocessing, crucial for ensuring high-quality data.
+will implement basic supervised learning algorithms, like Linear Regression and Decision Trees, and understand model evaluation and validation techniques, 
+including key metrics and cross-validation. The session will also introduce unsupervised learning with a focus on clustering methods like K-Means. Through hands-on exercises, 
+participants will gain practical skills to start building their own machine learning models in Python.

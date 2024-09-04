@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "odsc2024"
+version = "0.1.0"
+description = "This is my tutorial on Introduction to ML in Python for the ODSC 2024"
+authors = ["Leonidas Souliotis, PhD"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ipykernel = "^6.29.5"
+ucimlrepo = "^0.0.7"
+pandas = "^2.2.2"
+scikit-learn = "^1.5.1"
+
+[tool.poetry.group.dev.dependencies]
+black = {extras = ["jupyter"], version = "^24.8.0"}
+jupyter-black = "^0.4.0"
+nbconvert = "^7.16.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
